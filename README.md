@@ -1,4 +1,4 @@
-# Construction Line code challenge
+# <Mystery> code challenge
 
 The code challenge consists in the implementation of a simple search engine for shirts.
 
